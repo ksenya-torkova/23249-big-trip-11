@@ -1,7 +1,7 @@
 # Личный проект «Большое путешествие» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ксения Торкова](https://up.htmlacademy.ru/ecmascript/11/user/23249).
-* Наставник: `Неизвестно`.
+* Наставник: [Инструктор Кекс](https://htmlacademy.ru/intensive/ecmascript).
 
 ---
 
